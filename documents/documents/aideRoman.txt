@@ -1,0 +1,9 @@
+faire un return qui renvoit plusieurs valeurs
+je dois retourné les valeurs secrètes et la grille généré (faire un tableau en 2d pour la grille)
+j'ai 4 valeurs à retourné dans etape1, valeur des symboles, ligne généré, colonne somme et ligne somme.
+mettre des virgules pour les valeurs.
+Faire une liste dans une liste
+Je vais pouvoir plus facilement manipuler mes valeurs
+
+Une variable pour garder les valeurs, faire un dictionnaire
+
